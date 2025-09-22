@@ -2,6 +2,7 @@
 This repository showcases practical projects and job simulations completed through Forage to develop and demonstrate data analysis, visualisation, and business problem-solving skills. Each project highlights the application of tools such as Excel, Bloomberg, and Power BI, as well as data cleaning, modelling, and visualisation techniques.
 
 **Projects**
+
 **1. Bank of America – Sales and Trading Analyst Job Simulation (August 2025)**
 
 Completed a hands-on simulation analyzing market trends and delivering client-focused solutions within the sales and trading division.
