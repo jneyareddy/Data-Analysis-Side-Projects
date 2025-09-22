@@ -35,8 +35,4 @@ Automation & process optimisation: Streamlining workflows for efficiency
 
 The repository includes the files associated with each simulation, including:
 
-Excel spreadsheets, cleaned datasets, reports and analysis files
-
-Presentations and video summaries (where applicable)
-
-Supporting documentation outlining methodology and insights
+Excel spreadsheets with cleaned datasets, slide decks, reports, proposals and analysis files.
